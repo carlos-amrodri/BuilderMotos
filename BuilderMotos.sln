@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderMotos", "BuilderMotos\BuilderMotos.csproj", "{1A3365FD-F0DC-44ED-B1EF-2DFFFE09F3B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderMotocicletas", "BuilderMotocicletas\BuilderMotocicletas.csproj", "{F7FFD607-4EB0-4DF9-8595-754343FEF60E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1A3365FD-F0DC-44ED-B1EF-2DFFFE09F3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A3365FD-F0DC-44ED-B1EF-2DFFFE09F3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A3365FD-F0DC-44ED-B1EF-2DFFFE09F3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FFD607-4EB0-4DF9-8595-754343FEF60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FFD607-4EB0-4DF9-8595-754343FEF60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FFD607-4EB0-4DF9-8595-754343FEF60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FFD607-4EB0-4DF9-8595-754343FEF60E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
